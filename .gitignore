@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.mo
+*.pot
+*.log
+settings_local.py
+.mypy_cache/
+.env
+.venv
+venv/
+ENV/
+.idea/
+*.sublime-*
+db.sqlite3

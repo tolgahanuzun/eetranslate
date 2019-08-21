@@ -1,0 +1,3 @@
+requests
+googletrans
+python-telegram-bot
